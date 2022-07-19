@@ -1,8 +1,9 @@
-<a href="http://majas-lapu-izstrade.lv/woocommerce-save-abandoned-carts-pro" title="Save abandoned carts" ><img src="https://ps.w.org/woo-save-abandoned-carts/assets/banner-1544x500.png" title="WooCommerce Live Checkout Field Capture Pro - save abandoned carts" alt="WooCommerce Live Checkout Field Capture Pro - save abandoned carts" /></a>
+<a href="https://www.cartbounty.com/" title="Save abandoned carts" ><img src="https://ps.w.org/woo-save-abandoned-carts/assets/banner-1544x500.gif" title="CartBounty Pro - Save and recover abandoned carts for WooCommerce" alt="CartBounty Pro - Save and recover abandoned carts for WooCommerce" /></a>
 
-# WooCommerce Live Checkout Field Capture Pro - Save Abandoned Carts
-Visit the Plugin website here: https://majas-lapu-izstrade.lv/woocommerce-save-abandoned-carts-pro/
+# CartBounty Pro - Save and recover abandoned carts for WooCommerce
+Save abandoned carts and send automated abandoned cart recovery messages. Get more leads, reduce cart abandonment, and increase sales.
+Visit the Plugin website here: https://www.cartbounty.com/
 
-If you would like to submit an issue or receive support, please do it here: https://majas-lapu-izstrade.lv/woocommerce-save-abandoned-carts-pro/get-premium-support/
+If you would like to submit an issue or receive support, please do it here: https://www.cartbounty.com/premium-support/
 
-We would like to use your suggestions and ideas to improve Woocommerce Live Checkout Field Capture Pro plugin. We always welcome suggestions from our users and will evaluate each new idea. Please submit them here: https://majas-lapu-izstrade.lv/woocommerce-save-abandoned-carts-pro/new-feature/ or under Github Pull requests section.
+We would like to use your suggestions and ideas to improve CartBounty plugin. We always welcome suggestions from our users and will evaluate each new idea. Please submit them here: https://www.cartbounty.com/contact/
